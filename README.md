@@ -39,7 +39,6 @@ ___
 Command | Purpose
 --|--
 `make` | to compile libft with mandatory files
-`make bonus` | to compile libft with bonus
 `make clean` | to clean the working directory of object files `*.o`
 `make fclean` | to clean the working directory of object and archive files `*.o` / `*.a`
 `make re` | to clean and re-compile
