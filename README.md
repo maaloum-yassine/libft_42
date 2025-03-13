@@ -1,7 +1,13 @@
 # Libft_42
 
 <p align="center">
-  <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png" />
+  <img src="https://github.com/maaloum-yassine/42/blob/main/logo_project42/libfte.png" />
+</p>
+
+## 🎥 Score 🥇✅
+
+<p align="center">
+  <img src="https://github.com/maaloum-yassine/42/blob/main/score/libft42.png" alt="Score 42 project 115"/>
 </p>
 
 
